@@ -11,6 +11,9 @@ Development
 - Better error reporting for BigQuery connector ([#15383](https://github.com/CartoDB/cartodb/issues/15383))
 - New Free Plan (Dashboard): Update metrics section in homepage ([#15435](https://github.com/CartoDB/cartodb/issues/15435))
 - New Free Plan (Dashboard): Update welcome section ([#15434](https://github.com/CartoDB/cartodb/issues/15434))
+- New Free Plan (Dashboard): Update custom API keys section in settings ([#15440](https://github.com/CartoDB/cartodb/issues/15440))
+
+
 4.34.0 (2020-01-28)
 -------------------
 
