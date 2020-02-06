@@ -13,6 +13,7 @@ Development
 - Better error reporting for BigQuery connector ([#15383](https://github.com/CartoDB/cartodb/issues/15383))
 - Fix DO subscriptions when estimated_delivery_days is NULL ([#15451](https://github.com/CartoDB/cartodb/pull/15451))
 - Improve management of gcloud DO settings through API keys ([#15453](https://github.com/CartoDB/cartodb/pull/15453))
+- BigQuery Connector UI enhancements ([#15393](https://github.com/CartoDB/cartodb/issues/15393))
 
 4.34.0 (2020-01-28)
 -------------------
