@@ -27,6 +27,7 @@ export default {
 .BadgeWarning {
   display: flex;
   align-items: center;
+  width: fit-content;
   margin: 0 1em;
   padding: 0.4em 1em;
   border-radius: 30px;
